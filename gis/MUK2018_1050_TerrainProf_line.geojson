@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MUK2018_1050",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 16.985738016664982, -5.015859017148614 ], [ 16.985989976674318, -5.008511021733284 ], [ 16.978961181494565, -5.002518303139029 ] ] ] } }
+]
+}

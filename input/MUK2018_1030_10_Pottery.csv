@@ -1,0 +1,215 @@
+"Act","Obj","VU","n","Typ","Size","Wgt","Wall","Fabric","Color","Decor","Morph","Drawing","Note"
+5,NA,NA,NA,NA,70,11,8,"grog","grey/white",NA,NA,NA,NA
+5,NA,NA,NA,NA,30,3.5,6,"fine/white","white/grey",NA,NA,NA,NA
+5,NA,NA,NA,NA,70,10.8,6,"fine/red","red/grey",NA,"leicht konvexer Schulterbereich",NA,NA
+5,NA,NA,NA,NA,30,6.6,8,"fine/white","white/grey",NA,NA,NA,NA
+5,NA,NA,NA,NA,30,3.5,7,"fine/red","red/beige","bnfwa-nfwa?",NA,NA,NA
+5,NA,NA,14,NA,30,17.6,NA,NA,NA,NA,NA,NA,NA
+5,NA,NA,2,NA,10,0.1,NA,NA,NA,NA,NA,NA,NA
+6,NA,NA,NA,NA,30,1.2,6,"fine/white","white/grey",NA,NA,NA,NA
+6,NA,NA,NA,NA,30,1.2,5,"fine/red","red/grey",NA,"konakver Hals/konvexe Schulter?",NA,NA
+6,NA,NA,NA,NA,70,4.8,NA,NA,NA,NA,NA,NA,NA
+6,NA,NA,12,NA,30,22.4,NA,NA,NA,NA,NA,NA,NA
+6,"1",NA,NA,NA,70,13.4,7,"fine","grey/beige",NA,NA,NA,"Pfeife???"
+7,NA,NA,NA,NA,30,1.6,4,NA,NA,NA,NA,NA,"Porzellan"
+7,NA,NA,4,NA,30,9,NA,NA,NA,NA,NA,NA,NA
+8,"4",NA,NA,"RS",70,7.4,8,"slag","beige/grey",NA,"kurzer ausbiegener Rand, spitze Mdg",NA,NA
+8,NA,NA,NA,NA,70,6.6,7,"fine/white","white/grey/red",NA,NA,NA,NA
+8,NA,NA,NA,"RS",30,2.1,6,"fine/red","red/beige","Rilleausbiegender, enger Rand, gerillte Mdg",NA,NA,NA
+8,NA,NA,NA,NA,30,2.7,8,"fine/white","beige/brown/black","reste feine rille","konkaver Halsbereich?",NA,NA
+8,"1-2",NA,NA,NA,70,14.4,8,"coarse/white","beige","Kammstrich",NA,NA,NA
+8,NA,NA,12,NA,30,14.2,NA,NA,NA,NA,NA,NA,NA
+9,"1",NA,NA,NA,70,9.9,7,"slag","beige/grey","feine horiz Rillen",NA,NA,NA
+9,NA,NA,6,NA,30,7.4,NA,NA,NA,NA,NA,NA,NA
+9,"2",NA,NA,NA,70,6.3,7,"fine/white","white/grey","überkreuzter Kammeindruck; fake Cauri?","gerade/leicht konvexe Schulter",NA,NA
+10,NA,NA,NA,NA,70,11.7,12,"fine/white","white/grey",NA,NA,NA,NA
+10,NA,NA,NA,NA,30,1.3,6,"fine/red","beige/red","feine Rillen, überkreuzte feine Rillen",NA,NA,NA
+10,NA,NA,9,NA,30,12.9,NA,NA,NA,NA,NA,NA,NA
+11,"2",NA,NA,NA,30,2.6,7,"fine/white","white/beige","mit feinen Rillen gefüllte Raute/Dreieck(?)",NA,NA,NA
+11,NA,NA,2,NA,30,2.3,NA,NA,NA,NA,NA,NA,NA
+12,NA,NA,NA,NA,70,5.5,7,"fine/white","white/grey",NA,NA,NA,NA
+12,NA,NA,7,NA,30,10.3,NA,NA,NA,NA,NA,NA,NA
+12,NA,NA,NA,NA,30,0.7,NA,NA,NA,NA,NA,NA,"Porzellan"
+13,NA,NA,6,NA,30,9.2,NA,NA,NA,NA,NA,NA,NA
+14,NA,NA,NA,NA,70,13.4,6,"grog","white/grey",NA,NA,NA,NA
+14,"2",NA,NA,"RS",70,10.3,6,"fine/white","beige",NA,"konkav ausbiegender Rand, gearde Mdg.","x","außen org. Anhaftungen"
+14,"4",NA,NA,NA,70,8.6,6,"coarse/red","red/beige","Kammstrich, gerade & bögen",NA,NA,NA
+14,NA,NA,8,NA,30,14.8,NA,NA,NA,NA,NA,NA,NA
+14,NA,NA,NA,NA,70,9.5,NA,NA,NA,NA,NA,NA,"außen org. Anhaftungen!!"
+14,"1",NA,NA,NA,70,45.5,12,"fine/white","beige/grey/black",NA,"enger, leicht konkaver Flaschenhals",NA,NA
+15,"1",NA,4,"RS",70,15.7,6,"fine/white","white","feines Fischgrät in Rille auf Schulter","einfach ausbiegender Rand, gerade Mdg, kein Hals, leicht konvexe Schulter","x",NA
+15,NA,NA,NA,NA,30,1.2,8,"fine/red","red/grey",NA,NA,NA,NA
+15,NA,NA,8,NA,30,12.5,NA,NA,NA,NA,NA,NA,NA
+16,NA,NA,NA,NA,70,12.8,9,"fine/white","white/black",NA,NA,NA,NA
+16,NA,NA,11,NA,30,12.8,NA,NA,NA,NA,NA,NA,NA
+17,NA,NA,NA,NA,30,2.7,NA,"fine/red","red/grey",NA,NA,NA,NA
+17,NA,NA,NA,NA,30,1.9,7,"fine/red","red/beige",NA,NA,NA,NA
+17,NA,NA,10,NA,30,14.6,NA,NA,NA,NA,NA,NA,NA
+18,NA,5,2,NA,70,6,6,"grog","grey",NA,NA,NA,"-18 & -24"
+18,NA,NA,NA,NA,30,3.5,6,"coarse/red","red/beige",NA,NA,NA,NA
+18,NA,NA,NA,NA,70,6.2,7,"coarse/white","beige/black",NA,NA,NA,NA
+18,NA,NA,2,NA,30,1.2,NA,NA,NA,NA,NA,NA,NA
+18,NA,NA,NA,NA,30,1.7,5,"fine","black","horiz Rille; kleine Runde Kammeindrücke in der Rille",NA,NA,NA
+19,NA,NA,NA,NA,70,5.3,7,"slag","beige",NA,NA,NA,NA
+19,"3",NA,NA,NA,30,3.4,6.5,"fine/white","white","horiz Rillen",NA,NA,NA
+19,NA,NA,NA,NA,70,7.9,10,"fine/red","beige/red","feine Rille",NA,NA,NA
+19,NA,NA,2,NA,70,8.7,NA,NA,NA,NA,NA,NA,NA
+19,NA,NA,6,NA,30,7.6,NA,NA,NA,NA,NA,NA,NA
+20,"1",NA,NA,NA,70,5.1,5.5,"fine/white","white/grey","Rillen & diag. Kammeindruck",NA,"x",NA
+20,"3",NA,NA,NA,30,3.2,9,"fine/red","beige/red/grey","2 Rillen",NA,NA,NA
+20,NA,NA,NA,NA,70,5.5,NA,"fine/red","red/grey",NA,NA,NA,NA
+20,NA,NA,4,NA,70,25.5,NA,NA,NA,NA,NA,NA,NA
+20,NA,NA,13,NA,30,23.4,NA,NA,NA,NA,NA,NA,NA
+21,NA,NA,NA,NA,70,6.9,6,"slag","beige/grey",NA,NA,NA,NA
+21,NA,NA,NA,NA,30,4.4,11.5,"fine/white","white/grey",NA,NA,NA,NA
+21,NA,NA,NA,NA,30,5.6,8,"fine/white","white/grey","horiz Rille","konkav ausbiegender Rand",NA,NA
+21,NA,NA,5,NA,30,4.4,NA,"fine/white",NA,NA,NA,NA,NA
+23,NA,NA,NA,NA,30,1.7,5,"fine/white","white/black","horiz Rille",NA,NA,NA
+23,NA,NA,NA,"RS",30,1.5,8,"fine/white","white/grey",NA,"ausbiegender Rand, gerade abgestrichene Mdg",NA,NA
+23,NA,NA,NA,NA,30,2.7,7,"slag","brown/black",NA,"leicht konkaver Rand, gerade Mdg",NA,NA
+23,NA,NA,NA,NA,30,8.1,12,"coarse/red","beige/red/black",NA,NA,NA,NA
+23,NA,NA,14,NA,30,28.7,NA,NA,NA,NA,NA,NA,NA
+23,NA,NA,NA,"RS",30,2.3,5,"fine","schwarz/beige","horiz Rille unterm Randabschluss","leicht konkaver Rand, spitze/gerade Mdg",NA,NA
+24,NA,NA,NA,"Lid?",70,8.1,7,"slag","brown",NA,NA,NA,NA
+24,NA,NA,NA,"RS",70,4.4,6,"slag","red/beige","horiz Rillen","kurzer dreieckig verdickter Rand; gerade abgestrichene Mdg",NA,NA
+24,NA,NA,NA,NA,30,3.6,6,"slag","beige/red",NA,NA,NA,NA
+24,NA,NA,NA,NA,30,1.8,5,"fine/white","white",NA,NA,NA,NA
+24,NA,NA,NA,NA,30,1.6,6,"fine/white","white/grey",NA,NA,NA,NA
+24,NA,NA,13,NA,30,12,NA,NA,NA,NA,NA,NA,NA
+24,NA,NA,NA,"RS",30,4.4,7,"grog","beige",NA,"leicht konkaver Rand, gerade Mdg",NA,"grog?"
+25,NA,NA,NA,NA,70,23,12,"grog","white/grey",NA,NA,NA,NA
+25,NA,NA,NA,NA,70,8.2,9.5,"fine/white","white/grey",NA,NA,NA,NA
+25,NA,NA,2,NA,70,18.7,10,"slag","beige/red/grey","diagonaler Kammeindruck; in breiten Bündeln zu Winkeln/Zick-Zack","gerade Schulter","x",NA
+25,NA,NA,NA,NA,70,26.4,14,"coarse/white","beige/grey",NA,NA,NA,"org. Anhaftungen Innen!!!"
+25,NA,NA,NA,NA,70,7.2,5,"coarse/red","red/beige/black",NA,NA,NA,NA
+25,NA,NA,NA,NA,70,9.5,NA,NA,NA,NA,NA,NA,NA
+25,NA,NA,8,NA,30,6.9,NA,NA,NA,NA,NA,NA,NA
+26,NA,NA,NA,NA,30,4.2,6,"grog","grey/beige",NA,NA,NA,NA
+26,NA,NA,NA,NA,70,10,6,"slag","brown/red","Rille",NA,NA,NA
+26,NA,NA,NA,NA,70,9.2,9,"slag","brown/black/beige",NA,NA,NA,NA
+26,NA,NA,NA,NA,30,2.4,6.5,"fine/white","white/grey",NA,NA,NA,NA
+26,NA,NA,NA,NA,30,2.6,7,"fine/red","beige/rot","diagonaler Kammeindruck",NA,NA,NA
+26,NA,NA,NA,NA,30,1.5,7,"fine/red","red","Rille",NA,NA,NA
+26,NA,NA,NA,"RS",70,6.7,8,"laterite","beige/red",NA,"ausbiegender Rand, gerade Mdg",NA,"laterite?"
+26,NA,NA,2,NA,70,8.9,NA,NA,NA,NA,NA,NA,NA
+26,NA,NA,9,NA,30,11.5,NA,NA,NA,NA,NA,NA,NA
+27,NA,NA,NA,NA,30,3.4,6,"slag","beige/grey",NA,"Fragm Zylinderhals?",NA,NA
+27,NA,NA,NA,NA,70,4.2,7,"slag","beige/red/grey",NA,"feine Rillen",NA,NA
+27,NA,NA,NA,NA,30,1.9,6,"fine/red","red/grey",NA,NA,NA,NA
+27,NA,NA,NA,NA,30,2.5,NA,"fine/white","beige/brown/black",NA,"ausbiegender Rand, gerade Mdg",NA,NA
+27,NA,NA,NA,NA,70,6.5,8,"coarse/white","white/grey","Rille",NA,NA,NA
+27,NA,NA,12,NA,30,17.3,NA,NA,NA,NA,NA,NA,NA
+27,NA,NA,4,NA,10,0.6,NA,NA,NA,NA,NA,NA,NA
+28,NA,NA,NA,NA,30,4.6,8,"fine/red","rot/beige","mit Rillen gefüllte Raute","gerade/leicht konvexe Schulter","x",NA
+28,NA,NA,NA,NA,30,3.7,8,"fine/red","red/brown",NA,"konkaver Rand, gerade Mdg",NA,NA
+28,NA,NA,NA,NA,70,6.1,7,"fine/red","red/beige/black",NA,NA,NA,NA
+28,NA,NA,NA,NA,70,7.4,8,"coarse/red","red/beige",NA,"ausbiegender Rand od. gerade Schulter(?)",NA,NA
+28,NA,NA,NA,NA,30,2.1,5,"coarse/red","red/grey","Kammstrich",NA,NA,NA
+28,NA,NA,2,NA,70,25.5,NA,NA,NA,NA,NA,NA,NA
+28,NA,NA,5,NA,30,5.5,NA,NA,NA,NA,NA,NA,NA
+29,NA,NA,NA,NA,30,4.6,9,"slag","red",NA,"ausbiegender Rand, gerade Mdg",NA,NA
+29,NA,NA,NA,NA,70,9.8,NA,"slag","red",NA,NA,NA,NA
+29,NA,NA,8,NA,30,9,NA,NA,NA,NA,NA,NA,NA
+29,NA,NA,NA,NA,30,2.3,7,"fine/white","white/grey","Rille & feines Ritz-Überkreuz-Band",NA,NA,"außen org. Anhaftungen?"
+29,NA,NA,NA,NA,70,42.1,9,"slag","brown/red","horiz Rille; diag Ritzung & horiz feiner Kammstrich","konvexer Bauch",NA,NA
+30,NA,NA,2,NA,70,6.1,8,"slag","beige",NA,NA,NA,NA
+30,"2",NA,NA,NA,30,3.9,6,"slag","beige/grey",NA,"ausbiegender Rand, leicht konvexe Schulter; kein Hals",NA,NA
+30,NA,NA,NA,NA,30,2.9,5.5,"fine/white","white/grey",NA,NA,NA,NA
+30,NA,NA,NA,NA,70,6,8,"fine/white","white/grey",NA,NA,NA,NA
+30,NA,NA,2,NA,30,5.1,7,"fine/white","white/grey",NA,NA,NA,NA
+30,NA,NA,NA,NA,30,7.3,11,"slag","beige/grey","3 rillen",NA,NA,NA
+30,NA,NA,NA,NA,70,6,NA,NA,NA,NA,NA,NA,NA
+30,NA,NA,11,NA,30,12.1,NA,NA,NA,NA,NA,NA,NA
+30,NA,NA,3,NA,70,6.4,6,"fine/white","white/red",NA,NA,NA,"-30 & -36"
+30,"1",NA,NA,NA,30,2.5,8,"slag","brown/grey","Kammeindruck & gr. Dreieckige Eindrücke",NA,NA,NA
+31,NA,NA,NA,NA,30,6,10,"slag","beige/grey",NA,NA,NA,NA
+31,NA,NA,3,NA,30,6.4,7,"fine/white","beige/brown","Zahneindruck/Kerbschnitt?",NA,"x","8:5; 31:2-3"
+31,NA,NA,NA,NA,70,10.4,9,"grog","beige/grey",NA,NA,NA,NA
+31,NA,NA,7,NA,30,9.5,NA,NA,NA,NA,NA,NA,NA
+33,NA,4,3,NA,70,17.6,5,"fine/white","white/grey","plast Leiste mit Eindrücken",NA,"x","31:1, 33:1, 36"
+33,NA,NA,NA,NA,70,16.4,6,"slag","brown/grey",NA,NA,NA,NA
+33,"5",NA,3,"RS",70,16.6,6,"slag","beige/red","wellenförm feine Rillen","konakav ausbiegender Rand, gerade Mdg","x",NA
+33,"2",NA,NA,"RS",70,6.5,7,"fine/white","white/grey",NA,"konkav ausbiegender Rand; gerade Mdg",NA,NA
+33,NA,NA,NA,NA,30,1.8,6,"fine/red","red/grey","Rille",NA,NA,NA
+33,NA,NA,5,NA,70,22.8,NA,NA,NA,NA,NA,NA,NA
+33,NA,NA,26,NA,30,34.3,NA,NA,NA,NA,NA,NA,NA
+35,NA,1,5,NA,120,60.5,9,"grog","white/grey",NA,NA,"x","19:1; 20; 35; 36"
+35,NA,6,2,NA,70,19.3,7,"slag","brown/beige/red",NA,NA,NA,"-35 & -39; slag?"
+35,NA,NA,NA,NA,70,44.4,11,"slag","brown/grey",NA,NA,NA,NA
+35,NA,NA,NA,NA,70,12.7,8,"slag","brown/grey",NA,NA,NA,NA
+35,NA,NA,2,NA,70,10.3,6,"slag","brown/beige/grey","feine, bogenförm Kammstrich","leicht konvexe Schulter","x","33:4; 35:1"
+35,NA,NA,NA,NA,70,3.9,4.5,"fine/white","beige/grey",NA,NA,NA,NA
+35,NA,NA,NA,NA,70,9.2,8,"coarse/red","brown/black",NA,NA,NA,NA
+35,"3",NA,NA,NA,30,4,7,"fine/white","brown/beige/grey","breite Rille & Kammstrich",NA,NA,NA
+35,NA,NA,3,NA,70,20.9,NA,NA,NA,NA,NA,NA,NA
+35,NA,NA,19,NA,30,25.3,NA,NA,NA,NA,NA,NA,NA
+36,NA,2,3,NA,120,44.9,5,"fine/red","red/beige","Leiste; Rillen","Absatz-plast.Leiste","x","36; 43:1"
+36,NA,NA,NA,"Lid?",70,13.5,7,"slag","brown",NA,NA,NA,NA
+36,NA,NA,NA,NA,70,4.2,7,"slag","brown/beige","horiz Rillen","kurzer Zylinderhals",NA,NA
+36,NA,NA,NA,NA,70,8.4,7,"slag","grey/beige",NA,NA,NA,NA
+36,NA,NA,NA,NA,30,0.7,7,"slag","beige",NA,NA,NA,NA
+36,NA,NA,NA,NA,70,5.4,7,"fine/red","dark red",NA,"leicht konkaver Rand, gerade Mdg",NA,NA
+36,NA,NA,NA,NA,30,3.1,8,"fine/white","beige(?)",NA,NA,NA,NA
+36,NA,NA,NA,NA,70,6.8,9,"slag","red/white/black",NA,NA,NA,NA
+36,NA,NA,NA,NA,70,10.7,NA,NA,NA,NA,NA,NA,NA
+36,NA,NA,24,NA,30,35.9,NA,NA,NA,NA,NA,NA,NA
+36,NA,NA,NA,NA,30,6.8,8,"fine/white","beige/grey","horiz Rille","konvex",NA,NA
+37,NA,NA,10,NA,30,20,NA,NA,NA,NA,NA,NA,NA
+39,NA,3,2,NA,70,10.1,6,"slag","red/beige","horiz Rille","konvexer Bauch",NA,"-39 & -42"
+39,"2",NA,NA,NA,70,18.6,8,"slag","brown/grey",NA,"leicht konvexe Schulter",NA,NA
+39,NA,NA,NA,NA,70,6.9,7,"slag","grey",NA,NA,NA,NA
+39,NA,NA,NA,"RS",70,7.8,8,"slag","beige/grey",NA,"gerader, leicht konkaver Rand",NA,NA
+39,NA,NA,NA,"RS",30,3.7,6,"fine/white","white",NA,"kurzer ausbiegender Rand, gerade Mdg",NA,NA
+39,"1",NA,NA,"RS",70,19,9,"slag","beige/grey",NA,"ausbiegender Rand; gerade Mdg",NA,NA
+39,"3-4",NA,NA,NA,70,18.6,7,"fine/red","brown/black","Rille",NA,NA,"Glättspuren innen & außen"
+39,NA,NA,NA,NA,70,16.5,10,"coarse/white","beige/black",NA,NA,NA,NA
+39,NA,NA,NA,NA,30,3.7,9,"fine/red","grey/beige/red",NA,NA,NA,NA
+39,NA,NA,15,NA,30,30.8,NA,NA,NA,NA,NA,NA,NA
+41,NA,NA,NA,NA,70,9,6,"grog","black/brown",NA,NA,NA,NA
+41,NA,NA,NA,NA,70,16.1,6,"grog","white/grey",NA,NA,NA,NA
+41,NA,NA,NA,NA,70,5.7,6,"slag","red",NA,NA,NA,NA
+41,NA,NA,3,NA,70,17.5,10,"slag","beige/grey",NA,NA,NA,NA
+41,NA,NA,NA,NA,70,10.4,8,"slag","beige/grey","bnfwa-nfwa?",NA,NA,NA
+41,NA,NA,NA,NA,30,5,7,"slag","beige",NA,NA,"x",NA
+41,NA,NA,NA,NA,70,3.4,5,"fine/white","white/grey",NA,NA,NA,NA
+41,NA,NA,NA,"RS",30,3.6,8,"slag","beige/brouwn/black",NA,"konkaver Rand, gerade Mdg",NA,NA
+41,NA,NA,3,NA,70,27.5,NA,NA,NA,NA,NA,NA,NA
+41,NA,NA,12,NA,30,38.9,NA,NA,NA,NA,NA,NA,NA
+41,NA,NA,NA,NA,70,6.3,9,"fine/red","red/beige","horiz Rille",NA,NA,NA
+42,NA,NA,NA,NA,70,5.2,7,"slag","brown/beige/grey",NA,NA,NA,NA
+42,"2",NA,NA,NA,70,23.9,8,"slag","beige/brown/grey","zwei Rillen & feine horiz, enge Rillen",NA,"x",NA
+42,"4",NA,NA,NA,70,14.1,7,"slag","beige/brown/grey","feine horiz & bogenförm Kammstrich",NA,"x",NA
+42,"3",NA,NA,"RS",70,9.6,6,"slag","brown/beige","horiz Rille","leichter Kegelhals, kurzer ausbiegender Rand, gerade Mdg","x",NA
+42,NA,NA,NA,NA,70,16.5,6,"slag","brown/red",NA,NA,NA,"fine/red"
+42,NA,NA,NA,NA,70,6.8,6,"fine/red","red/yellow","breite Rille","konexe Wdg",NA,NA
+42,NA,NA,NA,NA,30,6.5,9,"coarse/red","red/black",NA,NA,NA,NA
+42,NA,NA,NA,NA,70,5.6,NA,NA,NA,NA,NA,NA,NA
+42,NA,NA,8,NA,30,17.1,NA,NA,NA,NA,NA,NA,NA
+43,NA,NA,2,"RS",70,21.4,6,"slag","beige/grey","Rille","ausbiegender Rand, gerade Mdg",NA,"42:1; 43:2"
+43,NA,NA,NA,NA,70,28.7,8,"coarse/red","brown/black",NA,"konvexer Schulterbereich",NA,NA
+43,NA,NA,NA,NA,70,13.6,9,"coarse/red","brown/red&grey",NA,NA,NA,NA
+43,NA,NA,NA,NA,70,11.4,8,"coarse/red","red/grey",NA,NA,NA,NA
+43,NA,NA,NA,NA,30,1.8,5,"fine","grey/black",NA,"ausbiegender Rand; gerade Mdg",NA,NA
+43,NA,NA,22,NA,30,28.7,NA,NA,NA,NA,NA,NA,NA
+44,NA,NA,NA,NA,70,6.2,8,"slag","beige/grey","Rille",NA,NA,NA
+44,NA,NA,NA,NA,30,1.6,6,"slag","beige/grey",NA,NA,NA,NA
+44,NA,NA,NA,NA,30,0.7,6,"slag","beige","Rille",NA,NA,NA
+44,"1",NA,NA,NA,70,5,6,"slag","red/brown","feiner Kammstrich, überkreuzt",NA,"x","EIA?; fine/red"
+44,NA,NA,NA,NA,30,1.5,8,"fine/red","red/brown/grey",NA,"konkaver Halsbereich?",NA,NA
+44,NA,NA,6,NA,30,8.3,NA,NA,NA,NA,NA,NA,NA
+45,"2",NA,NA,NA,70,8.1,6,"slag","brown/beige","winkelige Rillen",NA,NA,NA
+45,"1",NA,2,"RS",70,22.5,8,"slag","beige/brown",NA,"ausbiegender Rand, gerade Mdg",NA,NA
+45,NA,NA,3,NA,70,25.5,NA,NA,NA,NA,NA,NA,NA
+45,NA,NA,11,NA,30,20.8,NA,NA,NA,NA,NA,NA,NA
+46,NA,NA,NA,NA,30,2.4,5.5,"fine/white","beige/black",NA,NA,NA,NA
+46,NA,NA,NA,NA,30,4.2,6,"coarse/white","beige/grey",NA,NA,NA,NA
+48,NA,NA,4,NA,10,0.7,NA,NA,NA,NA,NA,NA,NA
+50,"1",NA,NA,NA,30,1.9,7,"fine/white","white/grey",NA,NA,NA,NA
+50,"2",NA,NA,NA,30,1.7,6,"slag","beige/grey",NA,NA,NA,NA
+50,NA,NA,4,NA,10,1.1,NA,NA,NA,NA,NA,NA,NA
+51,NA,NA,NA,NA,30,0.1,3.5,"fine/white","white/grey",NA,NA,NA,NA
+53,NA,NA,NA,NA,30,3.6,8,"slag","brown/grey",NA,NA,NA,NA
+53,NA,NA,2,NA,30,0.7,NA,"fine/white","white/grey",NA,NA,NA,NA
+53,NA,NA,2,NA,30,1.1,NA,NA,NA,NA,NA,NA,NA
+53,NA,NA,3,NA,10,0.4,NA,NA,NA,NA,NA,NA,NA
+54,NA,NA,NA,NA,30,1,7,"slag","beige/brown",NA,NA,NA,NA
