@@ -1,5 +1,7 @@
 # Jungnickel, K.V.M., Seidensticker, D., Hubau, W., Mees, F., Cornelissen, E., Bostoen, K., The Late Pleistocene and Holocene chronocultural and anthracological open-air sequence from Mukila (DRC). Quaternary Science Reviews.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11575832.svg)](https://doi.org/10.5281/zenodo.11575832)
+
 All data and scripts required to reproduce the analysis of the paper are located within this repository.
 
 For users of the base R console, please define the work directory filepath where you stored the folder "Mukila_SiteIntegrity" by setting setwd(). If you use RStudio, you can open the .Rproj file instead.
