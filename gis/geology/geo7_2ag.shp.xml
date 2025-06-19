@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Geological Survey, Central Energy Resources Team</origin>
+				<pubdate>200206</pubdate>
+				<title>Surficial geology of Africa (geo7_2ag)</title>
+				<edition>2</edition>
+				<geoform>Downloadable GIS Data</geoform>
+				<serinfo></serinfo>
+				<pubinfo>
+					<publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+				</pubinfo>
+				<onlink>http://energy.cr.usgs.gov/oilgas/wep/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Feliks M. Persits, Thomas S. Ahlbrandt, Michelle L. Tuttle, Ronald R. Charpentier, Michael E. Brownfield and Kenneth I. Takahashi</origin>
+						<pubdate>200206</pubdate>
+						<title>Map showing Geology, Oil and Gas Fields, and Geologic Provinces of Africa</title>
+						<edition>version 2.0</edition>
+						<geoform>Digital Maps</geoform>
+						<serinfo>
+							<sername>U.S. Geological Survey Open-File Report</sername>
+							<issue>OFR-97-470-A</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Denver, Colorado</pubplace>
+							<publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+						</pubinfo>
+						<onlink>http://pubs.usgs.gov/of/1997/ofr-97-470/OF97-470A/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Surficial geology (geo7_2ag).</abstract>
+			<purpose>The Data provide the Government, the geological community, consultants, and the public with information on the geologic basis of the African continent.  It is intented to be used as reference spatial data.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2002</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-22.413353</westbc>
+				<eastbc>64.540365</eastbc>
+				<northbc>40.003867</northbc>
+				<southbc>-38.574876</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Surface Geology</themekey>
+				<themekey>Digital geologic map</themekey>
+				<themekey>Geology</themekey>
+				<themekey>Age</themekey>
+				<themekey>Geologic age</themekey>
+				<themekey>Lithology</themekey>
+				<themekey>Oil</themekey>
+				<themekey>Gas</themekey>
+			</theme>
+			<theme>
+				<themekt>Gateway to the Earth Thesaurus</themekt>
+				<themekey>Oil shale resources</themekey>
+				<themekey>Oil sand resources</themekey>
+				<themekey>Natural gas resources</themekey>
+				<themekey>Economic geology</themekey>
+			</theme>
+			<theme>
+				<themekt>ArcIMS Metadata Server Theme Codes Thesaurus</themekt>
+				<themekey>geoscientificInformation</themekey>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>USGS Energy Program Themes Thesaurus</themekt>
+				<themekey>Earth Science</themekey>
+				<themekey>Natural Resources</themekey>
+				<themekey>U.S. Geological Survey</themekey>
+				<themekey>USGS</themekey>
+				<themekey>Geology</themekey>
+				<themekey>Oil</themekey>
+				<themekey>Natural Gas</themekey>
+				<themekey>Petroleum</themekey>
+				<themekey>Resource Assessment</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Africa</placekey>
+			</place>
+			<place>
+				<placekt>USGS Energy Program Petroleum Assessment Units</placekt>
+				<placekey>Nile Delta Basin, Province 2035</placekey>
+				<placekey>Syrian Arch, Province 2036</placekey>
+				<placekey>Upper Egypt Basin, Province 2037</placekey>
+				<placekey>Abu Gharadiq Basin, Province 2038</placekey>
+				<placekey>North Egypt Basin, Province 2039</placekey>
+				<placekey>Cyrenaica Uplift, Province 2040</placekey>
+				<placekey>Cyrenacia Basin, Province 2041</placekey>
+				<placekey>Sirte Basin, Province 2043</placekey>
+				<placekey>Nubian Uplift, Province 2044</placekey>
+				<placekey>Murzuk Basin, Province 2045</placekey>
+				<placekey>Fezzan Uplift, Province 2046</placekey>
+				<placekey>Hamra Basin, Province 2047</placekey>
+				<placekey>Pelagian Basin, Province 2048</placekey>
+				<placekey>Nefusa Uplift, Province 2049</placekey>
+				<placekey>Tellian Uplift, Province 2050</placekey>
+				<placekey>Hauts Basin, Province 2051</placekey>
+				<placekey>Tellian Foredeep, Province 2052</placekey>
+				<placekey>Atlas Uplift, Province 2053</placekey>
+				<placekey>Trias/Ghadames Basin, Province 2054</placekey>
+				<placekey>Illizi Basin, Province 2056</placekey>
+				<placekey>Thiemboka Uplift, Province 2057</placekey>
+				<placekey>Grand Erg/Ahnet Basin, Province 2058</placekey>
+				<placekey>Reggane Basin, Province 2060</placekey>
+				<placekey>Ougarta Uplift, Province 2061</placekey>
+				<placekey>Atlas Basin, Province 2062</placekey>
+				<placekey>Rabat Basin, Province 2063</placekey>
+				<placekey>Essaouni Basin, Province 2064</placekey>
+				<placekey>Canary Islands, Province 2065</placekey>
+				<placekey>Aaiun-Tarfaya Basin, Province 2066</placekey>
+				<placekey>Tindouf Basin, Province 2067</placekey>
+				<placekey>Reguibate Uplift, Province 2068</placekey>
+				<placekey>Guercif Basin, Province 2069</placekey>
+				<placekey>Mediterranean Basin, Province 2070</placekey>
+				<placekey>Red Sea Basin, Province 2071</placekey>
+				<placekey>Rif Basin, Province 2072</placekey>
+				<placekey>North Red Sea Shield, Province 2073</placekey>
+				<placekey>Senegal, Province 7013</placekey>
+				<placekey>West African Shield, Province 7021</placekey>
+				<placekey>Taoudeni Basin, Province 7035</placekey>
+				<placekey>Hoggar, Province 7041</placekey>
+				<placekey>Iullemmeden, Province 7055</placekey>
+				<placekey>Chad, Province 7066</placekey>
+				<placekey>Erdis Kufra, Province 7075</placekey>
+				<placekey>Khartoum, Province 7087</placekey>
+				<placekey>South Red Sea Shield, Province 7091</placekey>
+				<placekey>Baffa, Province 7105</placekey>
+				<placekey>Volta, Province 7114</placekey>
+				<placekey>Nigerian Massive, Province 7121</placekey>
+				<placekey>Benue, Province 7136</placekey>
+				<placekey>Sud, Province 7146</placekey>
+				<placekey>Western Nubian Shield, Province 7151</placekey>
+				<placekey>Amhara Plateau, Province 7161</placekey>
+				<placekey>West African Coastal, Province 7173</placekey>
+				<placekey>Gulf of Guinea, Province 7183</placekey>
+				<placekey>Niger Delta, Province 7192</placekey>
+				<placekey>West-Central Coastal, Province 7203</placekey>
+				<placekey>West Zaire Precambrian Belt, Province 7211</placekey>
+				<placekey>Zaire, Province 7225</placekey>
+				<placekey>East Zaire Precambrian Belt, Province 7231</placekey>
+				<placekey>East African Rift, Province 7246</placekey>
+				<placekey>Somali, Province 7255</placekey>
+				<placekey>Somali Deep Sea, Province 7263</placekey>
+				<placekey>Tanzania Coastal, Province 7273</placekey>
+				<placekey>Etosha, Province 7285</placekey>
+				<placekey>Luffillian Arc, Province 7291</placekey>
+				<placekey>Orange River Coastal, Province 7303</placekey>
+				<placekey>Damer Belt, Province 7311</placekey>
+				<placekey>Kalahari, Province 7325</placekey>
+				<placekey>East Kalahari Precambrian Belt, Province 7331</placekey>
+				<placekey>Mozambique Coastal, Province 7343</placekey>
+				<placekey>Karoo, Province 7355</placekey>
+				<placekey>South African Coastal, Province 7363</placekey>
+				<placekey>Morondava, Province 7373</placekey>
+				<placekey>Madagascar, Province 7381</placekey>
+				<placekey>Tamatave, Province 7396</placekey>
+				<placekey>Madagascar Offshore, Province 7403</placekey>
+				<placekey>Seychelles, Province 7417</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+					<cntper>Feliks Persits</cntper>
+				</cntorgp>
+				<cntpos>GIS contractor</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>U.S. Geological Survey Energy Resources Team, Box 25046, Denver Federal Center, MS 939</address>
+					<city>Denver</city>
+					<state>Colorado</state>
+					<postal>80225-0046</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>303-236-3612</cntvoice>
+				<cntemail>datamgt@usgs.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http:\\certmapper.cr.usgs.gov\data\we\ofr97470a\graphic\geo7_2ag.jpg</browsen>
+			<browsed>Geology of Africa</browsed>
+			<browset>JPEG</browset>
+		</browse>
+		<datacred>
+Digital Map Compilation - Feliks Persits
+Geological Attribution - Feliks Persits, Thomas Ahlbrandt, Michelle Tuttle,
+Ronald Charpentier, Michael Brownfield
+</datacred>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>
+Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI
+ArcCatalog 8.1.1.649
+</native>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>
+Standard ARC/INFO attribute accuracy in Feature Attribute Tables like AREA, PERIMETER, etc. depend on horizontal positional accuracy. All the additional attributes are character type.
+</attraccr>
+			<qattracc>
+				<attracce>All the Attributes besides standard ARC/INFO are character type. Standard verification of attributes reliability has been done by ARC/INFO EDITPLOT program to find out polygons without assigned character value or with more than one value.</attracce>
+			</qattracc>
+		</attracc>
+		<logic>Since the data set is the ARC/INFO coverage topological consistency are supported.  Fuzzy tolerance has been maintained the same through all processing steps.  Based on fuzzy tolerance value all undershoots and overshoots were detected and deleted.  A comparison between color plot and original paper map was carried out by visual comparison.  Color plots in 1:5,000,000 scale were superimposed on every of correspondent original map sheets.  All detected errors in attributes were corrected.</logic>
+		<complete>
+Several geological age subdivisions on the original (UNESCO) 1:5,000,000 geologic maps were combined into a single unit.  As of May, 2000, generalizations of the original geologic map (UNESCO) were carried out:
+1.  All the Cretaceous units were combined into one.
+2.  All the Precambrian subdivisions were combined into one.
+Boundaries are correct as of July, 1997.
+</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+1. Original geological maps are of 500 m. maximum accuracy (0.1 mm on paper map of 1:5,000,000 scale).
+2. Scanned images were of 200 dot/inch resolution (0.12 mm on paper). That is why fuzzy tolerance for CLEAN program in ARC/INFO was set to 500 m. Average positional accuracy can be evaluated as 1000 m (twice of fuzzy tolerance).
+</horizpar>
+				<qhorizpa>
+					<horizpav>1000 m</horizpav>
+				</qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Commission for the Geological Map of the World (CGMW)</origin>
+						<pubdate>1990</pubdate>
+						<title>Carte géologique internationale de l'Afrique</title>
+						<edition>1987-1990</edition>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>5000000</srcscale>
+				<typesrc>Paper Geologic Map</typesrc>
+				<srctime>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Paper Geologic Map</srccitea>
+				<srccontr>All the five paper map sheets are used as the sources for creation the correspondent ARC/INFO coverages.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Transparent mylar film was used to extract geologic boundaries from paper geologic maps.</procdesc>
+				<procdate>1996</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+							<cntper>Dr. Thomas Ahlbrandt</cntper>
+						</cntorgp>
+						<cntpos>Project Chief</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>U.S. Geological Survey, P.O. Box 25046, MS 939, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>Colorado</state>
+							<postal>80225-0046</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>303-236-5776</cntvoice>
+						<cntemail>ahlbrandt@usgs.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Scanning mylars on large format Anatech Eagle scanner in binary mode.  Vectorizing binary images in UNIX ArcInfo 7.0.1 to produce ArcInfo coverages by GRIDLINE utility.
+</procdesc>
+				<srcused>Mylar scanning</srcused>
+				<procdate>1996</procdate>
+				<srcprod>ArcInfo coverages from binary images</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>US Geological Survey, Central Energy Resources Team</cntorg>
+							<cntper>Ronald Charpentier</cntper>
+						</cntorgp>
+						<cntpos>Senior Geologist</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>U.S. Geological Survey, P.O. Box 25046, MS 939, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>Colorado</state>
+							<postal>80225-0046</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>303-236-5766</cntvoice>
+						<cntfax>303-236-8822</cntfax>
+						<cntemail>charpentier@usgs.gov</cntemail>
+						<hours>8 - 5 MST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Scanning original paper maps on a large format Anatech Eagle scanner in gray-scale mode.</procdesc>
+				<srcused>Paper maps</srcused>
+				<procdate>1997</procdate>
+				<srcprod>Gray-scale images</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+							<cntper>Feliks Persits</cntper>
+						</cntorgp>
+						<cntpos>GIS Contractor</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>U.S. Geological Survey, P.O. Box 25046, MS 939, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>Colorado</state>
+							<postal>80225-0046</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>303-236-3612</cntvoice>
+						<cntfax>303-236-8822</cntfax>
+						<cntemail>fpersits@usgs.gov</cntemail>
+						<hours>8 - 5 MST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Geologic age attributes were assigned to ArcInfo polygon coverage</procdesc>
+				<srcused>ArcInfo coverages from binary images</srcused>
+				<procdate>1996</procdate>
+				<srcprod>Attributed ArcInfo coverages from binary images</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U.S. Geologcal Survey, Central Energy Resources Team</cntorg>
+							<cntper>Ronald. Charpentier</cntper>
+						</cntorgp>
+						<cntpos>Senior Geologist</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>U.S. Geological Survey, P.O. Box 25046, MS 939, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>Colorado</state>
+							<postal>80225-0046</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>303-236-5766</cntvoice>
+						<cntfax>303-236-8822</cntfax>
+						<cntemail>charpentier@usgs.gov</cntemail>
+						<hours>8 - 5 MST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+ArcInfo coverages from binary images were transformed to Transverse Mercator projection with central meridian of 16° E and scale factor at a central meridian equal to 0.995.
+</procdesc>
+				<srcused>Attribited ArcInfo coverages</srcused>
+				<procdate>1996</procdate>
+				<srcprod>Projected ArcInfo coverages from binary images</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+							<cntper>Feliks Persits</cntper>
+						</cntorgp>
+						<cntpos>GIS Contractor</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>U.S. Geological Survey, P.O. Box 25046, MS 939, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>Colorado</state>
+							<postal>80225-0046</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>303-236-3612</cntvoice>
+						<cntfax>303-236-8822</cntfax>
+						<cntemail>fpersits@usgs.gov</cntemail>
+						<hours>5 - 8 MST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Gray-scale images were georeferenced by ArcInfo REGISTER and RECTIFY utilities by using projected ArcInfo coverages from binary images.
+</procdesc>
+				<srcused>Gray-scale images</srcused>
+				<procdate>1997</procdate>
+				<srcprod>Georeferenced gray-scale images</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+							<cntper>Feliks Persits</cntper>
+						</cntorgp>
+						<cntpos>GIS Contractor</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>U.S. Geological Survey, P.O. Box 25046, MS 939, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>Colorado</state>
+							<postal>80225-0046</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>303-236-3612</cntvoice>
+						<cntfax>303-236-8822</cntfax>
+						<cntemail>fpersits@usgs.gov</cntemail>
+						<hours>5 - 8 MST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Verification and correction of line work and geologic attributing of projected ArcInfo coverages by using georeferenced gray-scale images as background images in ArcInfo ArcEdit 7.0.2
+</procdesc>
+				<srcused>Projected ArcInfo coverages</srcused>
+				<procdate>1997</procdate>
+				<srcprod>Corrected ArcInfo coverages</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+							<cntper>Feliks Persits</cntper>
+						</cntorgp>
+						<cntpos>GIS Contractor</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>U.S. Geological Survey, P.O. Box 25046, MS 939, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>Colorado</state>
+							<postal>80225-0046</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>303-236-3612</cntvoice>
+						<cntfax>303-236-8822</cntfax>
+						<cntemail>fpersits@usgs.gov</cntemail>
+						<hours>8 - 5 MST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Corrected ArcInfo coverages were projected to geographic coordinates and to Mercator projection with a central meridian of 25 E by ArcInfo PROJECT utility.
+</procdesc>
+				<srcused>Corrected ArcInfo coverages</srcused>
+				<procdate>1997</procdate>
+				<srcprod>Final ArcInfo coverages in Mercator projection and in geographic coordinates.</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+							<cntper>Feliks Persits</cntper>
+						</cntorgp>
+						<cntpos>GIS. Contractor</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>U.S. Geological Survey, P.O. Box 25046, MS 939, Denver Federal Center</address>
+							<city>Denver</city>
+							<state>Colorado</state>
+							<postal>80225-0046</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>303-236-3612</cntvoice>
+						<cntfax>303-236-8822</cntfax>
+						<cntemail>fpersits@usgs.gov</cntemail>
+						<hours>5 - 8 MST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>11977</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>geo7_2ag</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>GLG</attrlabl>
+				<attrdef>Surface Geology Attribute</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>"Q" - Quaternary (undivided)</edomv>
+					</edom>
+					<edom>
+						<edomv>"Qe" - Holocene</edomv>
+					</edom>
+					<edom>
+						<edomv>"Qp" - Pleistocene</edomv>
+					</edom>
+					<edom>
+						<edomv>"QT" - Cenozoic</edomv>
+					</edom>
+					<edom>
+						<edomv>"T" - Tertiary</edomv>
+					</edom>
+					<edom>
+						<edomv>"Mz" - Mesozoic</edomv>
+					</edom>
+					<edom>
+						<edomv>"TK" - Tertiary-Cretaceous</edomv>
+					</edom>
+					<edom>
+						<edomv>"K" - Cretaceous</edomv>
+					</edom>
+					<edom>
+						<edomv>"KI" - Lower Cretaceous</edomv>
+					</edom>
+					<edom>
+						<edomv>"KJ" - Cretaceous-Jurassic</edomv>
+					</edom>
+					<edom>
+						<edomv>"J" - Jurassic</edomv>
+					</edom>
+					<edom>
+						<edomv>"JI" - Lower Jurassic</edomv>
+					</edom>
+					<edom>
+						<edomv>"JTr" - Jurassic-Triassic</edomv>
+					</edom>
+					<edom>
+						<edomv>"Tr" - Triassic</edomv>
+					</edom>
+					<edom>
+						<edomv>"Trl" - Lower Triassic</edomv>
+					</edom>
+					<edom>
+						<edomv>"MzPz" - Mesozoic-Paleozoic</edomv>
+					</edom>
+					<edom>
+						<edomv>"KC" - Cretaceous-Carboniferous</edomv>
+					</edom>
+					<edom>
+						<edomv>"JC" - Jurassic-Carboniferous</edomv>
+					</edom>
+					<edom>
+						<edomv>"Pz" - Paleozoic</edomv>
+					</edom>
+					<edom>
+						<edomv>"P" - Permian</edomv>
+					</edom>
+					<edom>
+						<edomv>"TrP" - Triassic-Permian</edomv>
+					</edom>
+					<edom>
+						<edomv>"PC" - Permian-Carboniferous</edomv>
+					</edom>
+					<edom>
+						<edomv>"C" - Carboniferous</edomv>
+					</edom>
+					<edom>
+						<edomv>"CD" - Carboniferous-Devonian</edomv>
+					</edom>
+					<edom>
+						<edomv>"D" - Devonian</edomv>
+					</edom>
+					<edom>
+						<edomv>"Du" - Upper/Middle Devonian</edomv>
+					</edom>
+					<edom>
+						<edomv>"DS" - Devonian-Silurian</edomv>
+					</edom>
+					<edom>
+						<edomv>"S" - Silurian</edomv>
+					</edom>
+					<edom>
+						<edomv>"SO" - Silurian-Ordovician</edomv>
+					</edom>
+					<edom>
+						<edomv>"OCm" - Ordovician-Camrian</edomv>
+					</edom>
+					<edom>
+						<edomv>"pCm" - Precambrian</edomv>
+					</edom>
+					<edom>
+						<edomv>"PzpC" - Paleozoic-Precambrian</edomv>
+					</edom>
+					<edom>
+						<edomv>"Qv" - Quaternary Igneous</edomv>
+					</edom>
+					<edom>
+						<edomv>"Ti" - Tertiary Igneous</edomv>
+					</edom>
+					<edom>
+						<edomv>"Mi" - Mesozoic Igneous</edomv>
+					</edom>
+					<edom>
+						<edomv>"MiPi" - Mz-Pz Igneous</edomv>
+					</edom>
+					<edom>
+						<edomv>"Pi" - Paleozoic Igneous</edomv>
+					</edom>
+					<edom>
+						<edomv>"Kimb" - Kimberlites</edomv>
+					</edom>
+					<edom>
+						<edomv>"S_d" - Salt Domes</edomv>
+					</edom>
+					<edom>
+						<edomv>"H2O"- Water (River or Lake)</edomv>
+					</edom>
+					<edom>
+						<edomv>"Sea" - Sea</edomv>
+					</edom>
+					<edom>
+						<edomv>"oth" - Areas outside of African Continent</edomv>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>
+U.S. Geological Survey,
+Central Energy Team
+</cntorg>
+					<cntper>Christa Lopez</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>
+U.S. Geological Survey
+MS939, Box 25046
+</address>
+					<city>Denver</city>
+					<state>Colorado</state>
+					<postal>80225-0046</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>303-236-1644</cntvoice>
+				<cntemail>datamgt@usgs.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>
+This publication was prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, makes any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights.  Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof.
+Although all data and software published are used by the U.S. Geological Survey, no warranty, expressed or implied, is made by the U.S. Geological Survey as to the accuracy of the data and related materials and (or) the functioning of the software. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ArcInfo Export File</formname>
+					<formcont>Surficial geology features and attribute data</formcont>
+					<transize>37 MB</transize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://certmapper.cr.usgs.gov/data/we/ofr97470a/spatial/export/geo7_2age.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<formcont>Surficial geology features and attribute data</formcont>
+					<transize>19 MB</transize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://certmapper.cr.usgs.gov/data/we/ofr97470a/spatial/shape/geo7_2ag.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Image Map Service (WorldAfrica)</formname>
+					<formvern>4.0.1</formvern>
+					<formspec>ArcIMS Image Map Service</formspec>
+					<formcont>A web-based interactive mapping system that accesses an ArcIMS Map Service running on certmapper.cr.usgs.gov</formcont>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://certmapper.cr.usgs.gov/pubs/servlet/MapViewerBroker?Service=WorldAfrica&amp;OVMap=WorldAfrica_overview&amp;project=world</networkr>
+							</networka>
+						</computer>
+						<accinstr>This URL links to a web-based interactive mapping system that accesses an ArcIMS Image Map Service that runs in Netscape 4.7, Internet Explorer 4.5 and higher.  The mapservice can also be accessed using any custom client that adheres to the protocol specified through ArcXML.</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>This product can be downloaded individually using any one of the digital form, Network_Resouce_Name URLS above.  Each of these URLs may provide access to various formats of the same product.  To order CD-ROM, contact USGS Earth Science Information Center 1-800-USA-MAPS.</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>2000</metd>
+		<metrd>20041015</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+					<cntper>David A. Ferderer</cntper>
+				</cntorgp>
+				<cntpos>Data library manager, Central Energy Resources Team</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>U.S. Geological Survey, P.O. Box 25046, MS 939, Denver Federal Center</address>
+					<city>Denver</city>
+					<state>CO</state>
+					<postal>80225-0046</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(303) 236-3611</cntvoice>
+				<cntfax>(303) 236-8822</cntfax>
+				<cntemail>datamgt@usgs.gov</cntemail>
+				<hours>8 am. to 4 pm. MST</hours>
+				<cntinst>For inquiries regarding this document, please include the metadata contact person's name, dataset name, and publication series and number</cntinst>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+	</metainfo>
+	<Esri><MetaID>{23046821-AC2E-469A-89CE-389A4EE201E0}</MetaID><CreaDate>20041026</CreaDate><CreaTime>14214700</CreaTime><SyncOnce>TRUE</SyncOnce></Esri></metadata>

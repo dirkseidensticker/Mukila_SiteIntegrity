@@ -1,0 +1,41 @@
+GLG,Label,col
+Q,Quaternary,#FFFF66
+Qe,Holocene,#FFFFDE
+Qp,Pleistocene,#FFEB66
+QT,Cenozoic,#FFEBB3
+T,Tertiary,#FFB300
+Mz,Mesozoic,#9B9CDB
+TK,Tertiary/Cretaceous,#EBFFB3
+K,Cretaceous,#CCFF99
+Kl,Lower Cretacious,#99EB80
+KJ,Cretacious/Jurassic,#CCFFCC
+J,Jurassic,#80FF80
+Jl,Lower Jurassic,#80DE99
+JTr,Jurassic/Triassic,#CCFFEB
+Tr,Triassic,#99FFCC
+Trl,Lower Triassic,#80EBB3
+MzPz,Mesozoic/Paleozoic,#E6FFFF
+KC,Cretaceous through Carboniferous,#CCEBEB
+JC,Jurassic through Carboniferous,#B3EBEB
+Pz,Paleozoic,#E6CCCC
+P,Permian,#80FFEB
+TrP,Triassic/Permian,#99FCCC
+PC,Permian-Carboniferous,#B3FFFF
+C,Carboniferous,#80CCEB
+CD,Carboniferous/Devonian,#FFCCEB
+D,Devonian,#FFB3B3
+Du,Upper/Middle Devonian,#8099FF
+DS,Devonian/Silurian,#CCCCFF
+S,Silurian,#B380FF
+SO,Silurian/Ordovician,#FFB3FF
+O,Ordovician,#FFB3CC
+OCm,Ordovician/Cambrian,#FFB3CC
+Cm,Cambrian,#EB8099
+pCm,Precambrian,#CCB3B3
+PzpC,Paleozoic/Precambrian,#E6CCE6
+Qv,Quaternary extrusive and intrusive rocks,#FFFF66
+Ti,Tertiary extrusive and intrusive rock,#FFB300
+Mi,Mesozoic extrusive and intrusive rock,#BFBFDB
+MiPi,Mesozoic-Paleozoic extrusive and intrusiv rock,#E6FFFF
+Pi,Paleozoic extrusive and intrusive rock,#E6CCCC
+s_d,Kimberlite,#A0A0A0
